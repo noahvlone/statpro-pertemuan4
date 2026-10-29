@@ -1,0 +1,61 @@
+Nama,Kelas,Jurusan,Jam_Belajar,UTS,UAS,Kehadiran
+Andi A,C,Informatika,9,73,74,93.3
+Budi A,A,Data Science,9,66,75,88.6
+Citra A,A,Data Science,4,68,66,82.5
+Dewi A,B,Sistem Informasi,6,73,63,71.3
+Eka A,B,Informatika,7,70,73,
+Farhan A,B,Data Science,5,61,67,89.3
+Gita A,A,Sistem Informasi,10,75,77,88.3
+Hana A,B,Sistem Informasi,10,15,73,93.5
+Indra A,B,Data Science,2,52,57,100.0
+Joko A,B,Informatika,3,55,63,85.3
+Kiki A,C,Sistem Informasi,4,53,54,91.8
+Lina A,C,Informatika,8,74,71,86.9
+Maya A,C,Informatika,14,76,87,84.0
+Nanda A,C,Data Science,7,63,64,86.0
+Oscar A,C,Informatika,9,58,70,95.7
+Putri A,A,Sistem Informasi,5,64,54,79.8
+Rizky A,C,Sistem Informasi,5,65,56,97.1
+Sari A,B,Informatika,2,57,46,
+Tama A,A,Data Science,8,86,67,88.3
+Wulan A,A,Sistem Informasi,11,82,75,90.0
+Andi B,A,Sistem Informasi,7,61,65,76.7
+Budi B,C,Informatika,12,95,83,100.0
+Citra B,C,Sistem Informasi,9,66,72,95.8
+Dewi B,C,Sistem Informasi,20,74,66,89.4
+Eka B,A,Sistem Informasi,10,78,72,88.5
+Farhan B,B,Sistem Informasi,9,66,67,91.6
+Gita B,B,Sistem Informasi,11,85,77,82.8
+Hana B,C,Sistem Informasi,6,66,64,90.3
+Indra B,A,Informatika,1,54,62,80.6
+Joko B,B,Data Science,8,65,80,92.0
+Kiki B,B,Sistem Informasi,6,71,74,82.6
+Lina B,C,Informatika,8,64,83,95.2
+Maya B,B,Sistem Informasi,13,71,76,87.0
+Nanda B,B,Informatika,5,70,67,90.1
+Oscar B,B,Data Science,10,71,81,100.0
+Putri B,B,Data Science,11,77,81,94.4
+Rizky B,A,Informatika,9,83,86,90.1
+Sari B,A,Informatika,11,83,94,88.4
+Tama B,A,Data Science,7,70,74,79.7
+Wulan B,A,Informatika,6,70,70,96.7
+Andi C,C,Sistem Informasi,11,72,72,100.0
+Budi C,B,Sistem Informasi,10,79,99,88.5
+Citra C,A,Data Science,12,86,85,100.0
+Dewi C,B,Data Science,9,76,73,87.1
+Eka C,A,Data Science,13,81,76,73.8
+Farhan C,B,Sistem Informasi,7,44,67,82.8
+Gita C,C,Informatika,5,64,65,79.5
+Hana C,A,Data Science,2,54,61,85.8
+Indra C,B,Informatika,5,59,62,93.0
+Joko C,B,Informatika,10,79,74,80.6
+Kiki C,C,Informatika,4,60,60,
+Lina C,B,Sistem Informasi,7,67,69,89.6
+Maya C,A,Sistem Informasi,14,75,79,82.1
+Nanda C,A,Informatika,11,68,84,80.7
+Oscar C,B,Informatika,13,84,97,88.7
+Putri C,B,Sistem Informasi,5,61,68,95.0
+Rizky C,A,Sistem Informasi,1,51,44,83.2
+Sari C,B,Sistem Informasi,13,83,84,82.0
+Tama C,B,Sistem Informasi,4,61,50,86.9
+Wulan C,A,Data Science,8,69,60,90.3
