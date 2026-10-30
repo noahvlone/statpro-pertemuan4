@@ -7,7 +7,6 @@ STRUKTUR
   app.py                           Dashboard final (4 tab) - referensi/demo pengajar
   01_hello.py ... 04_statistik.py  File langkah demi langkah (juga dibuat oleh notebook)
   kuis1.py, kuis2.py               Kerangka kuis untuk mahasiswa (ada TODO)
-  kunci_kuis1.py, kunci_kuis2.py   KUNCI JAWABAN - KHUSUS PENGAJAR, jangan dibagikan
   data/data_mahasiswa.csv          Dataset demo dashboard (60 mahasiswa)
   data/data_penjualan_kafe.csv     Dataset kuis 2 (30 hari x 3 menu)
 
